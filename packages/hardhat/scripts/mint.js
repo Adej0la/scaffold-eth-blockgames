@@ -54,7 +54,7 @@ const main = async () => {
   await sleep(delayMS);
 
   const zebra = {
-    description: "What is it so worried abogit?",
+    description: "What is it so worried about?",
     external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
     image: "https://austingriffith.com/images/paintings/zebra.jpg",
     name: "Zebra",
