@@ -7,4 +7,4 @@
 http://wide-army.surge.sh/
 
 ### Verified Contract Link
-https://etherscan.io/address/0x2703e58F1dD92672d2b7FaaFED0D712739F3CBB8
+https://rinkeby.etherscan.io/address/0x2703e58F1dD92672d2b7FaaFED0D712739F3CBB8
